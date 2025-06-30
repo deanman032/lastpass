@@ -3,7 +3,7 @@ How to Login Your LastPass Account Securely
 
 LastPass is one of the leading password management tools designed to help users store and manage their passwords safely and conveniently. With cyber threats on the rise, securely accessing your lastpass login account is more important than ever. Whether you’re new to LastPass or a seasoned user, understanding the best practices for a secure lastpass sign in account experience is essential. This guide will walk you through the steps for secure login, highlight troubleshooting tips, and explain how to reach lastpass customer service or lastpass customer support when you need help.
 
-.. image:: start.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
